@@ -2,3 +2,5 @@ baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = 'Advait Mallela'
 theme = "tale"
+
+menu = 'main'
