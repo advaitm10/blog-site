@@ -6,7 +6,6 @@ layout: "about"
 url: "/about/"
 menu: "main"
 author: "Advait Mallela"
-unlisted: "true"
 ---
 
 Hi. My name’s Advait and I’m a student at Purdue University, graduating in 2024. I’m currently studying Data Science and Computer Science with a concentration in Machine Intelligence.
