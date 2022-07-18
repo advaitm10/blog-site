@@ -1,7 +1,6 @@
 ---
 title: "About"
 date: 2022-07-09T08:39:38+05:30
-draft: true
 layout: "about"
 url: "/about/"
 menu: "main"
